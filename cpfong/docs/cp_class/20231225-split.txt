@@ -1,3 +1,0 @@
-my @arr = split //, "abcd";     print "@arr\n";
-@arr = "abcd" =~ /./sg;         print "@arr\n";
-@arr = unpack '(a)*', 'abcd';   print "@arr\n";

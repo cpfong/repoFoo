@@ -1,3 +1,0 @@
-su
-mkdir /data
-mount /dev/sda0 /data

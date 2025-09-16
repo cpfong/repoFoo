@@ -1,8 +1,0 @@
-id='PASTE_YOUR_ID_TOKEN_HERE'
-
-curl -k https://www.ifong.cc/verify \
-  -H "Content-Type: application/json" \
-  -X POST \
-  --data-binary @- <<EOF
-{"id_token":"$id"}
-EOF

@@ -1,3 +1,0 @@
-\postgres
-CREATE USER xxxxxx WITH PASSWORD yyyyyy CREATEDB CREATEUSER;
-

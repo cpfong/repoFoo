@@ -1,2 +1,0 @@
-<a href= > Real </a> 
-<a href= > <img src=./></a>

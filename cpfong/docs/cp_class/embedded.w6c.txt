@@ -1,4 +1,0 @@
-hw5
-id
-add group
-useradd

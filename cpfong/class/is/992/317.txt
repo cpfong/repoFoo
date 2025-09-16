@@ -1,2 +1,0 @@
-dsl, drml, puppy, debian, system rescue CD
-ssh to server

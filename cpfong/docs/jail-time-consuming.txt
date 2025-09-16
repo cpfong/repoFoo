@@ -1,3 +1,0 @@
-build world
---
-rm -fr /usr/obj/usr; cd /usr/src; make buildworld # 20:00 -

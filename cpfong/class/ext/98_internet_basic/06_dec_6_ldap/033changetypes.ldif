@@ -1,3 +1,0 @@
-## remove Peabody Soup
-dn: cn=Peabody Soup,ou=people,dc=plainjoe,dc=org
-changetype: delete

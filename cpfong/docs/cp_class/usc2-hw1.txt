@@ -1,4 +1,0 @@
-due: 10/16 24:00
-obj: ChrisMas Tree using print
-name: hw1.py
-dir: ~/homework/

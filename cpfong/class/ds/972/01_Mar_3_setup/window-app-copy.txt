@@ -1,2 +1,0 @@
-       Label1.ForeColor = Color.Red
-       TextBox1.Text = Label1.Text

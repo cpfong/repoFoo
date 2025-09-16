@@ -1,3 +1,0 @@
-#!/bin/sh
-sudo /sbin/iptables-restore < ./iptables.rules.good.4.pptpd
-

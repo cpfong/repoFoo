@@ -1,1 +1,0 @@
-redirect_port udp 192.168.0.1:53 53

@@ -1,3 +1,0 @@
-usb 2 serial driver up
-note: arduino driver does NOT work, i use cs314ser.zip 
-old ide 1.65

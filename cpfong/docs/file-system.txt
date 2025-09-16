@@ -1,3 +1,0 @@
-ntfs: windows 
-fat32: data
-ext4: Linux

@@ -1,4 +1,0 @@
-Q: Starting devd. devmatch: Can't read linker hints file.
-A:
-mount -rw /
-kldxref -R /boot

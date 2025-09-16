@@ -1,7 +1,0 @@
-#!/bin/sh
-
-cat "$@" | 
-while IFS= read -r line
-do
- printf "$line\n"
-done

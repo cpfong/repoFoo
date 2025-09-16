@@ -1,5 +1,0 @@
-#!/bin/sh
-
-for i in `ls /home/cpfong`; do
- printf "%s\n" $i
-done

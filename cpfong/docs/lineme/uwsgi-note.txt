@@ -1,2 +1,0 @@
-the web client <-> the web server <-> the socket <-> uwsgi <-> Django
-

@@ -1,2 +1,0 @@
-pluto.ifong.org
-port: 6410 (org 22, but usc does not allowed)

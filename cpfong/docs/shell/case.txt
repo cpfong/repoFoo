@@ -1,5 +1,0 @@
-case word in
-    [(]pattern1) compound-list;;
-    [[(]pattern[ | pattern] ... ) compound-list;;] ...
-    [[(]pattern[ | pattern] ... ) compound-list]
-esac

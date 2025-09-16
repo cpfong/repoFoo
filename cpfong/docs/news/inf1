@@ -1,6 +1,0 @@
-s vi innfeed.conf
-
-peer fjtc {
-<TAB>	ip-name:                news.fjtc.edu.tw
-<TAB>	max-connections:        10
-}

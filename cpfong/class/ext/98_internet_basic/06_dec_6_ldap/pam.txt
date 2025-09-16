@@ -1,5 +1,0 @@
-ldap with pam
-
-port/net nss_ldap
-port/security pam_ldap, pam_mkhomedir 
-

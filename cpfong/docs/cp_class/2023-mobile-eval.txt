@@ -1,3 +1,0 @@
-note+quiz 70% 
-midterm 15% 
-final 15%
