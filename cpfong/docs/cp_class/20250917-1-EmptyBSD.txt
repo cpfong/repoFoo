@@ -1,0 +1,10 @@
+@echo off
+
+set "acc=cpatstust"
+
+rem create empty 8G image #20g too big, cannot save at google drive
+"c:\program files\qemu\qemu-img.exe" create -f raw "c:\users\%acc%\qemu\freebsdRunning.img" 8G
+
+
+rem boot with iso and install to freebsd.img
+"c:\program files\qemu\qemu-system-x86_64.exe" -m 1024 -cdrom "c:\users\%acc%\qemu\FreeBSD14.3R-amd64-disc1.1302714368.iso" -boot d -drive file="c:\users\%acc%\qemu\freebsdRunning.img",format=raw -net nic -net user
